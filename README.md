@@ -8,7 +8,5 @@ The classification works well with only 5% misclassifications, however the recal
 
 Options for further work to revisit and improve:
 
-- Look at the second and third best gridsearch outcomes.  
-- Do either of these give better recall.
-  Scale features
-
+- Look at the second and third best gridsearch outcomes. Do either of these give better recall? 
+- Scale features
